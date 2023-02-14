@@ -10,6 +10,7 @@ public class DataTypes {
         //tipos de datos numericos con decimales:
         //float (4 bytes) y double (8 bytes). doble sirve para tener mas precision con los decimales, ya que
         // puede tener mas decimales.
+        //un double tiene 15 dígitos decimales de precisión, mientras que el tipo de dato float tiene solamente 7
         double nD = 3422.2353532532;
         float nF = 123.456F;        //al igual que con long, aca hay que poner la F al final, sino los va a
         // considerar como double.
